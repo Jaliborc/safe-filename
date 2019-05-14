@@ -1,6 +1,6 @@
 {
   "name": "safe-filename",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert strings to valid filenames or filepaths",
   "main": "index.js",
   "scripts": {
