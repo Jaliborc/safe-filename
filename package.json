@@ -1,0 +1,28 @@
+{
+  "name": "safe-filename",
+  "version": "1.0.0",
+  "description": "Convert strings to valid filenames or filepaths",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaliborc/safe-filename.git"
+  },
+  "keywords": [
+    "filename",
+    "filepath",
+    "dirname",
+    "dirpath",
+    "safe",
+    "sanitize",
+    "string"
+  ],
+  "author": "Joao Cardoso <jaliborcpublic@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaliborc/safe-filename/issues"
+  },
+  "homepage": "https://github.com/jaliborc/safe-filename#readme"
+}
